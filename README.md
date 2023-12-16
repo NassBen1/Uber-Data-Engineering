@@ -1,7 +1,4 @@
-Bien sûr, voici un exemple de texte que tu pourrais utiliser pour ton fichier README :
-Projet d'Analyse de Données Uber sur GCP avec MAGE
-
-    Ce projet vise à explorer et analyser les données d'Uber en utilisant les fonctionnalités puissantes de Google Cloud Platform (GCP) en conjonction avec MAGE, un outil robuste de pipeline. L'objectif principal était de créer un processus efficace pour extraire, transformer et charger (ETL) les données d'Uber depuis un bucket GCP, puis d'effectuer des analyses exploitables.
+Ce projet vise à explorer et analyser les données d'Uber en utilisant les fonctionnalités puissantes de Google Cloud Platform (GCP) en conjonction avec MAGE, un outil robuste de pipeline. L'objectif principal était de créer un processus efficace pour extraire, transformer et charger (ETL) les données d'Uber depuis un bucket GCP, puis d'effectuer des analyses exploitables.
     Étapes clés du projet :
        1. Extraction des données Uber sur GCP
 
