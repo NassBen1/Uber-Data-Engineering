@@ -1,0 +1,11 @@
+# Uber Data Engineering Project - Nassim BigQuery Test
+
+
+select VendorID, SUM(fare_amount) from `data-nassim.uber_data_engineering_nassim.fact_table`
+GROUP BY VendorID;
+
+SELECT b.payment_type_name, AVG(a.tip_amount) FROM `data-nassim.uber_data_engineering_nassim.fact_table` a
+JOIN `data-nassim.uber_data_engineering_nassim.payment_type_dim` b
+ON a.payment_type_id = b.payment_type_id
+GROUP BY b.payment_type_name;
+
