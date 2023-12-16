@@ -30,3 +30,6 @@ Comment exécuter le projet :
 
     Analyse des données :
         Explorez le script Python fourni dans le dossier 'analyses' pour accéder au dataframe créé et mener vos propres analyses.
+
+
+
